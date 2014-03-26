@@ -29,6 +29,10 @@ These were intentionally not included to expedite the workflow.
 
 ## Changes
 
+### 3/26/14 - Tumblr Boilerplate 1.0.8 - Fork
+- Added Theme Options.
+- Background Color Option Added.
+
 ### 3/17/14 - Tumblr Boilerplate 1.0.8
 
 - Updated Normalize CSS to v3.0.0
